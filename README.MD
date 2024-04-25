@@ -5,6 +5,8 @@ However, the video's width appears stretched on my Pixel 7a (Android 14) and the
 After the app goes to the background and then opens from the recent apps, the video looks like it should from the start.
 This bug doesn't appear if I use the Android View system instead of Kotlin Compose (you can checkout to the android-view branch).
 
+[Stackoverflow question](https://stackoverflow.com/questions/78365997/exoplayer-video-has-stretched-width)
+
 *Actual:*
 
 <img src="./screenshots/Screenshot_20240422_121212.png" width="200" />
